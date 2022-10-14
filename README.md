@@ -8,12 +8,11 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 1. [**Data Collection with API**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Data_Collection_yJPxhv2oU.ipynb)
 2. [**Data Collection with Web Scraping**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Data_Collection_with_Web_Scraping_nI89VIRCE.ipynb)
 3. [**Data Wrangling**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Data_Wrangling_9HnvfsJ5G.ipynb)
-4. [**EDA with SQL**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Exploratory_Data_Analysis_with_SQL__eqznon1EA.ipynb)
-5. [**EDA with Visulaization Lab**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Exploratory_Data_Analysis_with_Visualisation_Lab_jJkKVG6F1.ipynb)
-6. [**Interactive Visual Analytics with Folium**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Interactive_Visual_Analytics_with_Folium_M8uUhCmHY.ipynb)
-7. [**Dashboard Application (Code)**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/spacex_dash_app.py)
-8. [**Predictive Analysis - Machine Learning Lab**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Predictive_Analysis_-_Machine_Learning_Lab_hdUi_lnX5.ipynb)
-9. [**Final Presentation (Slide)**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/SpaceX_compressed.pdf)
+4. [**EDA with Visulaization Lab**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Exploratory_Data_Analysis_with_Visualisation_Lab_jJkKVG6F1.ipynb)
+5. [**Interactive Visual Analytics with Folium**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Interactive_Visual_Analytics_with_Folium_M8uUhCmHY.ipynb)
+6. [**Dashboard Application (Code)**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/spacex_dash_app.py)
+7. [**Predictive Analysis - Machine Learning Lab**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Predictive_Analysis_-_Machine_Learning_Lab_hdUi_lnX5.ipynb)
+8. [**Final Presentation (Slide)**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/SpaceX_compressed.pdf)
 
 
 ### Acknowledgements 
